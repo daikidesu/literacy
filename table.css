@@ -5,4 +5,4 @@
 .table th, table td {
    border: dashed 5px red;
 }
-table th {background-color: orange;}
+.table th {background-color: orange;}
